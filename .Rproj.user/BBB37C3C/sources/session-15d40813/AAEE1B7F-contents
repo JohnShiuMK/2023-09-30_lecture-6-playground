@@ -1,0 +1,42 @@
+---
+title: "Lab 3 - Question 7"
+author: "Group 4 (Dan Zhang, Ian MacCarthy, John Shiu, Prabhjit Thind)"
+date: "2023-09-23"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Page 1
+
+## This is the page 1
+
+-   hello world!
+
+---
+
+```{r page_2}
+print("hello world!")
+```
+
+---
+
+# Page 3
+
+## This is the page 3
+
+-   hello world again!
+
+---
+
+```{r page_4}
+print("hello world again!")
+```
