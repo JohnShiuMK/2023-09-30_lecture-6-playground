@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "Untitled.html",
+    "href": "Untitled.html",
+    "title": "./",
+    "section": "",
+    "text": "import pandas as pd\n\n\nc = pd.DataFrame({'a': [1, 2, 3], 'b': [4, 5, 6]})\nc\n\n\n\n\n\n\n\n\na\nb\n\n\n\n\n0\n1\n4\n\n\n1\n2\n5\n\n\n2\n3\n6\n\n\n\n\n\n\n\n\nc.count()\n\na    3\nb    3\ndtype: int64"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "./",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

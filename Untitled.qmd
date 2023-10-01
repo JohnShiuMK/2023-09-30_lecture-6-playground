@@ -1,0 +1,26 @@
+---
+jupyter: python3
+---
+
+```{python}
+#| editable: true
+#| slideshow: {slide_type: slide}
+#| tags: []
+import pandas as pd
+```
+
+```{python}
+#| editable: true
+#| slideshow: {slide_type: subslide}
+#| tags: []
+c = pd.DataFrame({'a': [1, 2, 3], 'b': [4, 5, 6]})
+c
+```
+
+```{python}
+#| editable: false
+#| slideshow: {slide_type: ''}
+#| tags: []
+c.count()
+```
+
